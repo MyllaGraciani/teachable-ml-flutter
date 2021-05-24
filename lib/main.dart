@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
 
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'TFLite (Cat or Dog)',
+      title: 'TFLite (Raio X normal X Raio X Pneumonia)',
       theme: _buildTheme(),
       home: HomePage(),
     );

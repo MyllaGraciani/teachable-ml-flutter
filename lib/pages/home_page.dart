@@ -35,7 +35,7 @@ class _HomePageState extends State<HomePage> {
         title: Text('Teachable Machine'),
       ),
       floatingActionButton: FloatingActionButton(
-        child: Icon(Icons.photo_camera),
+        child: Icon(Icons.photo),
         onPressed: _pickImage,
       ),
       floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,

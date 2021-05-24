@@ -1,2 +1,2 @@
-0 Gato
-1 Cachorro
+0 Normal
+1 Pneumonia
